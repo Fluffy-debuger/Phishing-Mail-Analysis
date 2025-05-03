@@ -34,8 +34,4 @@ pip install -r requirement.txt
 ```bash
 streamlit run app.py
 ```
----
-## Model Training :
-The model was trained using Random Forest (Enasmble Learning) to classify phishing emails using TF-IDF features. You may retrain it using a labeled dataset of email content.
----
 
